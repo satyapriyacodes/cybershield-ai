@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment variables / secrets — NEVER commit these
+.env
+*.env
+secrets.toml
+
+# Data files (large CSVs / trained models)
+data/raw/*.csv
+data/raw/*.json
+*.pkl
+*.joblib
+*.h5
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
