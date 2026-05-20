@@ -64,6 +64,4 @@ Then open:
 Python 3.11 · FastAPI · Streamlit · scikit-learn · OpenAI GPT-4 · SQLAlchemy · SQLite · Plotly · SHAP · Docker
 # cybershield-ai
 ## 🚀 Live Demo
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cybershield-ai-7ynpfdmaplltofpr4odbtk.streamlit.app/)
-
+https://cybershield-ai-7ynpfdmaplltofpr4odbtk.streamlit.app/
